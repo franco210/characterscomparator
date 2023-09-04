@@ -1,13 +1,11 @@
 # ticmas-TP-android-charactersComparator
-Cuando el usuario hace click en el botón “comparar” se compara la entrada de ambos cuadros de texto y devuelve si ambas cadenas de caracteres son iguales o no.
-Todo el codigo se realizo siguiendo buenas practicas de programacion.
-Tuve varios problemas que me complicaron el desarrollo y quiero pasar a enumerarlos:
 
- 
-•Cada vez que compilo el proyecto tengo que esperar al rededor de 5 minutos para ver algo y mucho mas si modifico el glade.
- 
-•La computadora no  podia correr el emulador asi que use mi celular pero de vez en cuando se desconectaba y tenia que reiniciar la computadora porque me empezaba a correr el emulador.
- 
-•Al queres subir el proyecto a github no me dejaba por la cantidad de archivos que tiene el proyecto y no me permitio subir un unico zip con todo asi que lo pasti en 3 partes el zip 2 y 3 van dentro de la carpeta APP. Intente configurar mi android studio para realizar los commits desde ahi pero no me reconocia la cuenta y cuando ponia commit no hacia nada.
+Cuando el usuario hace clic en el botón "evaluar", se compara la entrada en ambos campos de texto y devuelve si ambas cadenas de caracteres son idénticas o no. Todo el código se ha desarrollado siguiendo buenas prácticas de programación. En el proceso, me encontré con varios desafíos que complicaron el desarrollo y a continuación, los detallaré:
 
-Voy a seguir intentando resolver estos problemas pero por la falta de tiempo no tuve mas remedio que entregar el proyecto en este estado, cabe resaltar que la aplicacion cumple sus funciones principales y se implemento correctamente todos los items exigidos.
+- Cada vez que compilo el proyecto, debo esperar aproximadamente 5 minutos para ver resultados, y aún más tiempo si realizo modificaciones en el diseño a través de Glade.
+
+- Mi computadora no tenía suficiente potencia para ejecutar el emulador, por lo que opté por usar mi teléfono móvil. Sin embargo, enfrenté problemas ocasionales de desconexión, lo que me obligó a reiniciar la computadora en algunas ocasiones cuando el emulador comenzaba a ejecutarse.
+
+- Al intentar cargar el proyecto en GitHub, me encontré con limitaciones debido a la cantidad de archivos en el proyecto. No fue posible subir un solo archivo ZIP que contuviera todo, así que decidí dividirlo en tres partes, siendo los archivos ZIP 2 y 3 colocados dentro de la carpeta "APP". También intenté configurar Android Studio para realizar los commits desde allí, pero no reconoció mi cuenta y no logré que funcionara cuando intentaba hacer un commit.
+
+Continuaré trabajando en la solución de estos problemas, pero debido a restricciones de tiempo, me vi obligado a entregar el proyecto en el estado actual.
