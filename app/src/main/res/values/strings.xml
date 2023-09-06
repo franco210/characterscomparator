@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="pulsar">Pulsar</string>
+    <string name="introducir_texto_2">Introducir Texto 2</string>
+    <string name="introducir_texto_1">Introducir Texto 1</string>
+    <string name="comparador_de_caracteres">Comparador de Caracteres</string>
+    <string name="hola">hola</string>
+</resources>
